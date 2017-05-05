@@ -1,6 +1,12 @@
 # GSOC-2017
 You will find in this repo my accepted proposal for GSOC 2017 with [Ardupilot](ardupilot.org).
 
+### TIPS
+Be engaged in the project before selection. You will have better knowledge of what is needed for the project and what can be made in time.  
+Do you proposal directly on Google Docs as they will ask to send them with google docs.  
+Try to discuss your proposal with project member/active contributor to improve it and get review.  
+If you got an idea submit it ! My proposal wasn't in the initial list of project that ardupilot proposed.
+
 ### [ArduPilot Annoncement](http://discuss.ardupilot.org/t/congratulations-gsoc-2017-ardupilot-students/17150) and How they select projects
 ![ArdupilotGSOC](http://discuss.ardupilot.org/uploads/default/optimized/2X/9/97f13db89c8c2363ae1b5b65294113f986bba5fd_1_690x388.jpg)
 > It's official, Google has [announced](https://summerofcode.withgoogle.com/organizations/5365801306554368/#projects) the Ardupilot projects selected
