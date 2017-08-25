@@ -1,5 +1,7 @@
 on Github use the search function with is:pr author:khancyr created:>=2017-06-01 
 
+ArduPilot main repo :
+
 Rover: add better scheduler perf counter
   https://github.com/ArduPilot/ardupilot/pull/6828
   Need Review
@@ -147,3 +149,51 @@ init_ardupilot cleanup and improvements
 Autotest: refactoring
   https://github.com/ArduPilot/ardupilot/pull/6360
   Preliminary works for new autotest ; Need review.
+  
+ArduPilot Wiki :
+
+Add distance sensors usage example and small fixes
+  https://github.com/ArduPilot/ardupilot_wiki/pull/868
+  Merged
+
+More warning fix
+  https://github.com/ArduPilot/ardupilot_wiki/pull/840
+  Merged
+
+Fix numerous warning in dev directory
+  https://github.com/ArduPilot/ardupilot_wiki/pull/832
+  Merged
+
+ROS: add more documentation and initial tutorial
+  https://github.com/ArduPilot/ardupilot_wiki/pull/830
+  Merged
+
+Pymavlink :
+
+mavutil: handle ONBOARD_CONTROLLER heartbeat as GCS one's
+  https://github.com/ArduPilot/pymavlink/pull/87
+  Merged
+  
+Mavlink :
+
+add: MAV_DISTANCE_SENSOR_RADAR & MAV_DISTANCE_SENSOR_UNKNOWN 
+  https://github.com/ArduPilot/mavlink/pull/46
+  Merged
+
+Mavros :
+
+Extras: add ardupilot rangefinder plugin
+  https://github.com/mavlink/mavros/pull/746
+  Merged
+  
+Distance sensors: uncrustify and and new sensor type
+  https://github.com/mavlink/mavros/pull/747
+  Merged
+
+Extras: distance sensor don't spam when message are bounce back from FCU
+  https://github.com/mavlink/mavros/pull/748
+  Merged
+
+apm_config.yaml: change prevent collision in distance_sensor id
+  https://github.com/mavlink/mavros/pull/749
+  Merged
