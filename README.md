@@ -1,5 +1,5 @@
 # GSOC-2017
-You will find in this repo my accepted proposal for GSOC 2017 with [Ardupilot](ardupilot.org).
+You will find in this repo my accepted proposal for GSOC 2017 with [Ardupilot](http://ardupilot.org/).
 
 ### TIPS
 Be engaged in the project before selection. You will have better knowledge of what is needed for the project and what can be made in time.  
